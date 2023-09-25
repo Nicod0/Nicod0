@@ -6,7 +6,7 @@ Mi experiencia se extiende más allá del desarrollo de software. También tengo
 
 ## Tecnologías
 
-- Lenguajes de programación: JavaScript
+- Lenguajes de programación: JavaScript, Python
 - Frameworks y bibliotecas: React, Node.js, Express
 - Bases de datos: PostgreSQL
 - Otras herramientas y tecnologías: Sequelize, Git
@@ -17,7 +17,7 @@ Actualmente, me encuentro trabajando en un apasionante proyecto grupal, en el cu
 
 ## Aprendiendo actualmente
 
-Mi objetivo principal es seguir aprendiendo y creciendo en el campo de la programación. Mi próxima meta es adentrarme en Python y Angular para ampliar mi conjunto de habilidades. 📚💡
+Mi objetivo principal es seguir aprendiendo y creciendo en el campo de la programación. Mi próxima meta es adentrarme en Java para ampliar mi conjunto de habilidades. 📚💡
 
 ## Contacto
 
